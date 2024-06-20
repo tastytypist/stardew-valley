@@ -1,0 +1,3 @@
+[submodule "DresserCalendar"]
+	path = DresserCalendar
+	url = https://github.com/tastytypist/DresserCalendar
