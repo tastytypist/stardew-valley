@@ -1,3 +1,6 @@
 [submodule "DresserCalendar"]
 	path = DresserCalendar
 	url = https://github.com/tastytypist/DresserCalendar
+[submodule "TruffleBubbles"]
+	path = TruffleBubbles
+	url = https://github.com/tastytypist/TruffleBubbles
